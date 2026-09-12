@@ -12,4 +12,4 @@
 * 🔬 Spectrophotometry | Lasers | Electron Microscopy | Electrochemistry | Nanomaterial Characterization
 * 📚 Medical Device Standards | Risk Management | Operational Excellence
 
-### 👀 Here you can find my university projects and things I built in my free time. Take a peek! 👀
+### 👀 Here you can find my [university projects](https://github.com/vhrncir/school_projects/blob/main/README.md) and things I built in my free time. Take a peek! 👀
